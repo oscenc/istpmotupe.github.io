@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\envio\CURSO\bin\Debug\net6.0-windows\CURSO.exe
+C:\Users\user\Desktop\envio\CURSO\bin\Debug\net6.0-windows\CURSO.deps.json
+C:\Users\user\Desktop\envio\CURSO\bin\Debug\net6.0-windows\CURSO.runtimeconfig.json
+C:\Users\user\Desktop\envio\CURSO\bin\Debug\net6.0-windows\CURSO.dll
+C:\Users\user\Desktop\envio\CURSO\bin\Debug\net6.0-windows\CURSO.pdb
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.Form1.resources
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.AssemblyInfo.vb
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.dll
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\refint\CURSO.dll
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.pdb
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\CURSO.genruntimeconfig.cache
+C:\Users\user\Desktop\envio\CURSO\obj\Debug\net6.0-windows\ref\CURSO.dll
